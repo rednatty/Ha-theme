@@ -11,14 +11,13 @@
 
 ## Images:
 <details>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Overview.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Map.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Logbook.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/History.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Code.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Devtools.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Settings.webp"/>
-    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/main/assets/images/Profile.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Overview.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Map.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Logbook.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/History.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Devtools.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Settings.webp"/>
+    <img src="https://raw.githubusercontent.com/rednatty/rednatty-theme/master/assets/images/Profile.webp"/>
 
 </details>
 
