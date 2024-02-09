@@ -100,7 +100,7 @@ redNatty light:
   paper-card-background-color: var(--card-background-color)
 
   # Switches
-  switch-checked-button-color: var(--green)
+  switch-checked-button-color: var(--overlay0)
   switch-checked-track-color: var(--surface0)
   switch-unchecked-button-color: rgb(--overlay0)
   switch-unchecked-track-color: rgb(--surface0)
