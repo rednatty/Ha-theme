@@ -17,21 +17,12 @@ redNatty light:
   mantle: "#e6e9ef"
   crust: "#dce0e8"
 
-  rosewater: "#dc8a78"
-  flamingo: "#dd7878"
-  pink: "#ea76cb"
-  mauve: "#8839ef"
   red: "#d20f39"
-  maroon: "#e64553"
-  peach: "#fe640b"
   yellow: "#df8e1d"
   green: "#d2e7b9"
-  teal: "#179299"
   sky: "#04a5e5"
-  sapphire: "#209fb5"
   blue: "#3d85c6"
   light-blue: "#6fa8dc"
-  lavender: "#7287fd"
 
 
   # Header
@@ -60,15 +51,15 @@ redNatty light:
 
   sidebar-icon-color: var(--subtext0)
   sidebar-text-color: var(--subtext0)
-  sidebar-selected-icon-color: var(--mauve)
-  sidebar-selected-text-color: var(--mauve)
+  sidebar-selected-icon-color: var(--sky)
+  sidebar-selected-text-color: var(--sky)
 
   # Buttons
   paper-item-icon-color: var(--subtext0)
   paper-item-icon-active-color: var(--primary-color)
 
   # States and Badges
-  state-icon-color: var(--lavender)
+  state-icon-color: var(--sky)
   state-icon-active-color: var(--primary-color)
 
   state-icon-unavailable-color: var(--disabled-text-color)
